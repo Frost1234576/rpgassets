@@ -1,6 +1,8 @@
-{ 
-  "pack": {
-    "pack_format": 34,
-    "description": "frost rpg pack thing (help from vicorice)"
+{
+  "pack": { "description": "by Frost. (help from vicorice)", "pack_format": 42 },
+  "overlays": {
+    "entries": [
+      { "directory": "assets", "formats": [34, 42, 46, 55] }
+    ]
   }
 }
